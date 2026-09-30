@@ -44,13 +44,13 @@ Basic exception handling
 
 # Running Instructions
 
-# Install Python 3.
+- Install Python 3.
 
-# Open this folder in VS Code.
+- Open this folder in VS Code.
 
-# Open the terminal and run:
+- Open the terminal and run:
 
-# python main.py
+- python main.py
 
 Files
 
